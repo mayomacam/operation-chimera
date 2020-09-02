@@ -1,0 +1,142 @@
+Received: from SN1NAM04HT082.eop-NAM04.prod.protection.outlook.com
+ (2603:10a6:401:56::28) by CWLP123MB2610.GBRP123.PROD.OUTLOOK.COM with HTTPS
+ via CWLP123CA0016.GBRP123.PROD.OUTLOOK.COM; Mon, 16 Sep 2019 16:34:09 +0000
+Received: from SN1NAM04FT019.eop-NAM04.prod.protection.outlook.com
+ (10.152.88.52) by SN1NAM04HT082.eop-NAM04.prod.protection.outlook.com
+ (10.152.89.187) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.2263.14; Mon, 16 Sep
+ 2019 16:34:08 +0000
+Authentication-Results: spf=pass (sender IP is 209.85.167.42)
+ smtp.mailfrom=gmail.com; outlook.com; dkim=pass (signature was verified)
+ header.d=gmail.com;outlook.com; dmarc=pass action=none header.from=gmail.com;
+Received-SPF: Pass (protection.outlook.com: domain of gmail.com designates
+ 209.85.167.42 as permitted sender) receiver=protection.outlook.com;
+ client-ip=209.85.167.42; helo=mail-lf1-f42.google.com;
+Received: from mail-lf1-f42.google.com (209.85.167.42) by
+ SN1NAM04FT019.mail.protection.outlook.com (10.152.88.152) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.2263.14 via Frontend Transport; Mon, 16 Sep 2019 16:34:08 +0000
+X-IncomingTopHeaderMarker:
+ OriginalChecksum:9B13CE1310954F5C4AD95CD24836E827F96D2B668E1199137556FF0AD6967D4B;UpperCasedChecksum:6EFA867B184CB989D022048A22F6467111E1F74DEC7D4F20090DEF56FAE3E120;SizeAsReceived:2066;Count:13
+Received: by mail-lf1-f42.google.com with SMTP id r2so430954lfn.8
+        for <contact@dicksonunited.co.uk>; Mon, 16 Sep 2019 09:34:08 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=35GYcY8LSc+aFfU+B4Lg4MqFaCUMRII9EDlHfkc6B0Q=;
+        b=g/BA5DWmkuGsa7Zl6uxOUm9GK/IxkINev5dT2jIJUfY3Hpe/ODnlTxTdi2l7UVoyCx
+         2/gHMQyngn5KPyuN8O0ik27pcP+DtC+YgjCV0UEbzdla76UYb8F4nKQvl8QjHMLkrTjw
+         MFky9Av7jBWg0s7VnLC7RMN9+P0Ac2FWYxk7nwZeq7SC2AzOlDdOjbxFDQD/Ln9b4tgO
+         SN4M7IfTRK6kFdynJN8YYx5vI7r7RHfAS7/6FUJARWVoH3U8C7Xw1snYNxJZFdoNYZSG
+         KgQoSIynzuCgFupcVlY7NC6dKelaXz0dO+pa1QcQJ7jAh2vLWF+jYiSITpgGLJKmfH9i
+         VhBg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=35GYcY8LSc+aFfU+B4Lg4MqFaCUMRII9EDlHfkc6B0Q=;
+        b=NEMEH8HUpPoKrKe+KzVzyaG1zW8XQhNZdhYJ3X5LCtOS0BfOrpeXNGZB8LZV7KXfAE
+         d0OxxlaOTqcuvBpyAy3nILhUqW1/bsJGX081TSxQZto0LaglbvDhPo5SgZTzWZBKLLfG
+         PTEIBkrgczlhR9tTB6Si8pZ6xsQc1ST++5LcyaSYvQEpo04q9KXKlfpS58NQeia6iwQT
+         XEpCf0NpvtMesnmmM81gbLquQEigEHUiU377CKCGqieME4N1acJd9CuOGPAyVB//EEmi
+         sg9AlvMmkfCDMkTtbhRUnBH4k6xbWPstKlxVcVt+y5L9c7R/gDnRTONAPjkO46o7aqCZ
+         w2bg==
+X-Gm-Message-State: APjAAAVmyrY5+uLnXVoxNrrKwF1sC+jL0h2DP8ZBf2Pb+5AU3Ca2gWUq
+	B0m5GC6SAlwk4OtZ10slRhgq2nOU/POMv1whEHyOiQ==
+X-Google-Smtp-Source: APXvYqxajtuJ61PpkQgoNMlVuESt4ZwYxpFQbfmaUuFSiM1onhdGLOJSycPfh1doLV8rTEsfNAv4ofXIkPEyWBPU7TM=
+X-Received: by 2002:a19:beca:: with SMTP id o193mr150245lff.137.1568651648283;
+ Mon, 16 Sep 2019 09:34:08 -0700 (PDT)
+MIME-Version: 1.0
+From: Your Friend Dan <bobtom112233@gmail.com>
+Date: Mon, 16 Sep 2019 17:33:57 +0100
+Message-ID: <CAD=3UCGE5CtX8ZycC7niXdh5qXuJvOJZveshiTJE9cwi6wgEVQ@mail.gmail.com>
+Subject: Hello
+To: contact@dicksonunited.co.uk
+X-IncomingHeaderCount: 13
+Return-Path: aimme91931@gmail.com
+X-MS-Exchange-Organization-ExpirationStartTime: 16 Sep 2019 16:34:08.7291
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id:
+ 0aee4c67-f8e4-4230-83f2-08d73ac3b2b2
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-Forefront-Antispam-Report: EFV:NLI;
+X-MS-Exchange-Organization-AuthSource:
+ SN1NAM04FT019.eop-NAM04.prod.protection.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-PublicTrafficType: Email
+X-MS-UserLastLogonTime: 9/16/2019 3:30:17 PM
+X-MS-Office365-Filtering-Correlation-Id: 0aee4c67-f8e4-4230-83f2-08d73ac3b2b2
+X-Microsoft-Antispam:
+ BCL:0;PCL:0;RULEID:(2390118)(5000188)(711020)(4605104)(610169)(650170)(651021)(8291501072);SRVR:SN1NAM04HT082;
+X-MS-TrafficTypeDiagnostic: SN1NAM04HT082:
+X-MS-Exchange-EOPDirect: true
+X-Sender-IP: 209.85.167.42
+X-SID-PRA: bobtom112233@gmail.com
+X-SID-Result: PASS
+X-MS-Exchange-Organization-PCL: 2
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 16 Sep 2019 16:34:08.6991
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 0aee4c67-f8e4-4230-83f2-08d73ac3b2b2
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg:
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1NAM04HT082
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.8353117
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.2263.022
+X-Message-Info:
+	5vMbyqxGkdfO1r75FCxZb2pkw/UbT/ZQG34fqwr7ie+IAAiHzMjaCLKKIEcanEeJDh4YuQndziFNnMqYJ8mFT7VjRNTcDYy07jSV9PNK4HZwZ7IHHonSRGOIEpZ2wE/NoX9e2+vXrENWClCGKeWsPZp1zS6ooUZsHt9yKts4qyAAiAHA59xtbnTGCDsMll3TQBTjqyOsULriw37xhJod7g==
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0xO0Q9MTtHRD0xO1NDTD0z
+X-Microsoft-Antispam-Mailbox-Delivery:
+	abwl:0;wl:0;pcwl:0;kl:0;iwl:0;ijl:0;dwl:0;dkl:0;rwl:0;ucf:0;jmr:0;ex:0;auth:1;dest:I;ENG:(5062000261)(5061607266)(5061608174)(4900115)(4920090)(6515079)(4950130)(4990090);
+X-Microsoft-Antispam-Message-Info:
+	6F8hfuz5GFjveZ9/SHS+c5NR25fJsUgtXz7/7rs/xu7s8H3mOu7kikB0ybdT93Cz/r6o7SaWRvfAA9EEu7mof2WGcRKp2XbvX7KsvBvywCYmrqtPVRfMNDVFTJWIgRW98gm7hQXB3H0rcbhzQ2J6XE1N6u1h+gIN4vtRa9T0BSwicQiDqITrh1nra0sZOIKhGTcabdTSMBcTLLhr19FTPu4UjyVpWxBybbZqxe+OfAhlDFHAndjBlgAqe50GSJBIh85CQkHbYU+m31XDBrTI5GrhFz6wig8XJOE47DIjdtTb/4lZoCGlOrJgHOTjKp40FfiJwz8hm8ZIQ9GF5mxx1ka4FYtahGQCvF8/GzEPzBtPyXHp9p5MFOfQaY4KEZ/Dkt4EYWN/VMEOAQ3eCFd2U06JI8tyyK+AVzHrTLGK5rfD5AcXUGOM7mOuRLch/o0+QpUoRB6dL137w8Ev5wwX96BsnxwsNAfSAGU0o6u2KvdFTX8+YZuMRspb76XuY0s5cnsYtQQUrUCyJa798AyT4PbSSXQnAdwm6yTzCUQ2Fm9nHwRiIhTDQSUX9ya4FZMWKHDuCNoNNg04EC6lb+u2mvx/9LMg61lz36urYSWbYaasyibaup4LLszZ07Ywj8WuDSWuyyGC1HuGd0dqsj1flJb9g1Vv+9/ZtecneMIigMUJSx8FHLGTbXpgkShKQsxIjpNGuAn2/uDQnxnqYdrBiZAxGG5ahorXAZtEg7YyNpGtXz+J/Oz0I4JJhJAB38k00bTCTqpZX6LrU+8c6FZ/lA==
+Content-type: multipart/alternative;
+	boundary="B_3651506809_556374936"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3651506809_556374936
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: 7bit
+
+Hi there, 
+
+Could you please message me as soon as possible? It's very important!
+
+Thanks,
+Mr Jeffords
+
+
+--B_3651506809_556374936
+Content-type: text/html;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</head>
+<body>
+<div dir=3D"ltr">Hi there,
+<div><br>
+</div>
+<div>Could you please message me as soon as possible? It's very important!<=
+/div>
+<div><br>
+</div>
+<div>Thanks,</div>
+<div>Mr Jeffords</div>
+</div>
+</body>
+</html>
+
+
+--B_3651506809_556374936--

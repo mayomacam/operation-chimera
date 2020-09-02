@@ -1,0 +1,1336 @@
+Received: from BN7NAM10HT062.eop-nam10.prod.protection.outlook.com
+ (2603:10a6:401:88::18) by CWLP123MB2610.GBRP123.PROD.OUTLOOK.COM with HTTPS
+ via CWLP123CA0150.GBRP123.PROD.OUTLOOK.COM; Mon, 16 Sep 2019 17:02:30 +0000
+Received: from BN7NAM10FT063.eop-nam10.prod.protection.outlook.com
+ (10.13.156.54) by BN7NAM10HT062.eop-nam10.prod.protection.outlook.com
+ (10.13.156.251) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.2178.16; Mon, 16 Sep
+ 2019 17:02:28 +0000
+Authentication-Results: spf=pass (sender IP is 198.2.129.215)
+ smtp.mailfrom=mail215.atl81.rsgsv.net; outlook.com; dkim=pass (signature was
+ verified) header.d=mailchimpapp.net;outlook.com; dmarc=none action=none
+ header.from=innovationevents.co.uk;
+Received-SPF: Pass (protection.outlook.com: domain of mail215.atl81.rsgsv.net
+ designates 198.2.129.215 as permitted sender)
+ receiver=protection.outlook.com; client-ip=198.2.129.215;
+ helo=mail215.atl81.rsgsv.net;
+Received: from mail215.atl81.rsgsv.net (198.2.129.215) by
+ BN7NAM10FT063.mail.protection.outlook.com (10.13.156.171) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.2052.0 via Frontend Transport; Mon, 16 Sep 2019 17:02:28 +0000
+X-IncomingTopHeaderMarker:
+ OriginalChecksum:7F6FD147F1A0C52B3CFFAE3AB15FB6CC12063E58700ECB708404B735802E795C;UpperCasedChecksum:C9CC6F40B177D40756AF579AA06FE9845D7049A5C7FE6F8947F460B7C9077509;SizeAsReceived:2107;Count:21
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mailchimpapp.net;
+	s=k1; t=1568653243;
+	i=info=3D3Dinnovationevents.co.uk@mailchimpapp.net;
+	bh=Ci/kTM/wJBcvP/lytXOBSfZlOT5WB3ljhsxMSzkafA0=;
+	h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:
+	b=WdE9Jou75qsqeCdYffnxs+QJhjcqkkg5KA9z8H0lcPt7IwlK2JTUV6w/qUtWPPve4
+	 xr2l3R/beiEtRrKluewqm7/quSYkf6oF81UTCM7b3kY8KdAs6EOCIm8EMA6LtisabU
+	 m+Beq0SkntsAypwd8rp1MaHQvXp4mqPylK3NEAyw=
+Received: from localhost (localhost [127.0.0.1])
+	by mail215.atl81.rsgsv.net (Mailchimp) with ESMTP id 46XCDW5FqfzQXkyDD
+	for <johngrant@outlook.com>; Mon, 16 Sep 2019 17:00:43 +0000 (GMT)
+x-mcpf-jobid: mc.us11_44344845.1001617.5d7fbf7c16aa2.full_000003
+Subject: =?utf-8?Q?Win=20a=20pair=20of=20Sennheiser=20headphones=C2=A0=F0=9F=8E=A7?=
+From: =?utf-8?Q?Innovation?= <info@innovationevents.co.uk>
+Reply-To: =?utf-8?Q?Innovation?= <info@innovationevents.co.uk>
+To: =?utf-8?Q?john=20grant?= <johngrant@outlook.com>
+Date: Mon, 16 Sep 2019 17:00:32 +0000
+Message-ID: <911059759cade5d562b083126.c5729c01cc.20190916165956.39a4dba56d.10347015@mail215.atl81.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CID39a4dba56dc5729c01cc**
+X-Campaign: mailchimp911059759cade5d562b083126.39a4dba56d
+X-campaignid: mailchimp911059759cade5d562b083126.39a4dba56d
+X-Report-Abuse: Please report abuse for this campaign here: https://mailchimp.com/contact/abuse/?u=911059759cade5d562b083126&id=39a4dba56d&e=c5729c01cc
+X-MC-User: 911059759cade5d562b083126
+Feedback-ID: 44344845:44344845.1001617:us11:mc
+List-ID: 911059759cade5d562b083126mc list <911059759cade5d562b083126.361829.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <https://innovationevents.us11.list-manage.com/unsubscribe?u=911059759cade5d562b083126&id=4d3e682c97&e=c5729c01cc&c=39a4dba56d>, <mailto:unsubscribe-mc.us11_911059759cade5d562b083126.39a4dba56d-c5729c01cc@mailin.mcsv.net?subject=unsubscribe>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+MIME-Version: 1.0
+X-IncomingHeaderCount: 21
+Return-Path:
+ bounce-mc.us11_44344845.1001617-c5729c01cc@mail215.atl81.rsgsv.net
+X-MS-Exchange-Organization-ExpirationStartTime: 16 Sep 2019 17:02:28.7473
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id:
+ f207be7b-5fa7-4d58-b49c-08d73ac7a7fc
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-Forefront-Antispam-Report: EFV:NLI;
+X-MS-Exchange-Organization-AuthSource:
+ BN7NAM10FT063.eop-nam10.prod.protection.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-PublicTrafficType: Email
+X-MS-UserLastLogonTime: 9/16/2019 3:30:17 PM
+X-MS-Office365-Filtering-Correlation-Id: f207be7b-5fa7-4d58-b49c-08d73ac7a7fc
+X-Microsoft-Antispam:
+ BCL:1;PCL:0;RULEID:(2390118)(5000188)(711020)(4605104)(610169)(8291501072);SRVR:BN7NAM10HT062;
+X-MS-TrafficTypeDiagnostic: BN7NAM10HT062:
+X-MS-Exchange-PUrlCount: 20
+X-MS-Exchange-EOPDirect: true
+X-Sender-IP: 198.2.129.215
+X-SID-PRA: INFO@INNOVATIONEVENTS.CO.UK
+X-SID-Result: NONE
+X-MS-Exchange-Organization-PCL: 2
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 16 Sep 2019 17:02:28.6963
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: f207be7b-5fa7-4d58-b49c-08d73ac7a7fc
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg:
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN7NAM10HT062
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.3167019
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.2263.022
+X-Message-Info:
+	5vMbyqxGkdeH2V1oJuS48o1DE0ht3u6S6+LXHHu6ftPq8+y0KAg1Y30BHtPMjRlMxVk58hrtvnew2lu4oQV7rJhUISglpPY62jrz4rIvPpVvAma4eHDOFfP7XjFRLWwlJPt4EHd0Nzh3/RH5bbqXK9q9SPUgFfc4ZOv31D2CDBCaokhwvb/QrDyRDYldPMonP53BVDs9P6iNRjQCfMwFsA==
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0xO0Q9MTtHRD0xO1NDTD0z
+X-Microsoft-Antispam-Mailbox-Delivery:
+	abwl:0;wl:0;pcwl:0;kl:0;ijl:0;dwl:0;dkl:0;rwl:0;ucf:0;jmr:0;ex:0;psp:1;auth:0;dest:I;ENG:(5062000261)(5061607266)(5061608174)(4900115)(4920090)(6515079)(4950130)(4990090);
+X-Microsoft-Antispam-Message-Info:
+	K3Q0Fmy7C7WgBL17gx1afB7YIxA3+QYExxIRIWkipGCdyDef3sfLk3x6Ywz5W6TdMeLwbAE31oSqnu6YL6q7VV73hYjvTzLBM6WxpXd6Vf+PsvJzNsXH6HN7H9TDZ3nU0CXaI7Na1DzXvdCqV1QOxa5xSeQbzEsns8SeAJBH9wjtsxFpfiN4qKoHNWJf8Q28pYh19r2AIXciBNpQ8Fbjz55v8E9F25IYcMKO5JEtUYOq6aihj+/1ZE90Bp8iuqrj3RmQPt856T6cNeD/5ZQiW7JDNOsP6/AhzTz7BLWnCj0XLszTp8B1v++LS44AOBhk3QkZj2JSDQPDKx+fodlLtVkUhJbvjoW5I3KZ+OMxmtjQUO3gGh7Deltove6t6acVfWBeNZweJPIMhrrW4qpeKT1HSuRSolwuNskkvA7wDMAErOf2mzjdPg1jlxRUErRWdPVWjl6CcuMGckGugTbktQ48Ci0G/0S5OeBEqABPihHrdzr8UGcwjBKGKDwJt+k/N2YXF9Bvw6folJLIQPz2pgy7doiolrTPEKusFbYknXl/E1uTP4gMMKyNaFEMoy6BtRn3gkOdsxG9na7YRiGpZluXd7mMxX4BR3mFS+2F0cmzLpi2TcItOIQcWb/Yci8AFtMcZKwvy4gZzfmF1vJRhYxDSZ8eRMbJjFjmhV9ebmPd2phevYLYdNbPweL8+LqGL67CBIKhIUiCtRfvx4nF2opFDn+yV7pGpIc4a0AnT3tFXeqscROe2Tt9RWITOB7acvoXgyeOCdNMZBz/3GHQxrGMMjrZPf3sMv4slznoF1pH0D1tS9eDBQf8xhPxXlX1
+Content-type: multipart/alternative;
+	boundary="B_3651508908_69214369"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3651508908_69214369
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+Enter our exclusive bluetooth headphone competition=20
+View  this email in your browser
+Sennheiser, one of the main sponsors of the Innovation In The Dam drum & ba=
+ss festival, have given us a few pairs of their stylish HD 4.40 BT high-qual=
+ity wireless headphones to give away!
+ENTER  TO WIN=20
+The closed-back, around-ear headset (worth =C2=A389) features Bluetooth 4.0 and=
+ aptX compatibility to deliver true Hi-Fi sound & are perfect for listening =
+to your favourite Innovation drum & bass anthems on your way to Amsterdam  i=
+n November =F0=9F=98=89
+Other Innovation News
+Unreleased sets from In The Dam 2018 on Mixcloud & Soundcloud=20
+Our brand new Innovation In The Sun resort for next summer=20
+Tickets are now on sale for our biggest ever drum & bass boat party=20
+Copyright =C2=A9 2019 Innovation Events Management Ltd, All rights reserved.=20
+You are receiving this email because you opted in at our website via our ne=
+wsletter or when purchasing from us.=20
+
+Our mailing address is:=20
+Innovation Events Management Ltd 39a Mawney Road
+Romford, Essex RM7 7HL United Kingdom
+
+Add us to your address book
+
+
+Want to change how you receive these emails?
+You can update your preferences or unsubscribe from this list.=20
+
+
+
+--B_3651508908_69214369
+Content-type: text/html;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microsoft-c=
+om:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head>
+<!-- NAME: 1:3 COLUMN --><!--[if gte mso 15]>
+        <xml>
+            <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]-->
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1">
+<title>Win a pair of Sennheiser headphones&nbsp;=F0=9F=8E=A7</title>
+<style type=3D"text/css">
+		p{
+			margin:10px 0;
+			padding:0;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		h1,h2,h3,h4,h5,h6{
+			display:block;
+			margin:0;
+			padding:0;
+		}
+		img,a img{
+			border:0;
+			height:auto;
+			outline:none;
+			text-decoration:none;
+		}
+		body,#bodyTable,#bodyCell{
+			height:100%;
+			margin:0;
+			padding:0;
+			width:100%;
+		}
+		.mcnPreviewText{
+			display:none !important;
+		}
+		#outlook a{
+			padding:0;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		table{
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		p,a,li,td,blockquote{
+			mso-line-height-rule:exactly;
+		}
+		a[href^=3Dtel],a[href^=3Dsms]{
+			color:inherit;
+			cursor:default;
+			text-decoration:none;
+		}
+		p,a,li,td,body,table,blockquote{
+			-ms-text-size-adjust:100%;
+			-webkit-text-size-adjust:100%;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.Ext=
+ernalClass span,.ExternalClass font{
+			line-height:100%;
+		}
+		a[x-apple-data-detectors]{
+			color:inherit !important;
+			text-decoration:none !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+		}
+		#bodyCell{
+			padding:10px;
+		}
+		.templateContainer{
+			max-width:600px !important;
+		}
+		a.mcnButton{
+			display:block;
+		}
+		.mcnImage,.mcnRetinaImage{
+			vertical-align:bottom;
+		}
+		.mcnTextContent{
+			word-break:break-word;
+		}
+		.mcnTextContent img{
+			height:auto !important;
+		}
+		.mcnDividerBlock{
+			table-layout:fixed !important;
+		}
+		body,#bodyTable{
+			background-color:#FAFAFA;
+		}
+		#bodyCell{
+			border-top:0;
+		}
+		.templateContainer{
+			border:0;
+		}
+		h1{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:26px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		h2{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:22px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		h3{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:20px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		h4{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:18px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		#templatePreheader{
+			background-color:#FAFAFA;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+			border-top:0;
+			border-bottom:0;
+			padding-top:9px;
+			padding-bottom:9px;
+		}
+		#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{
+			color:#656565;
+			font-family:Helvetica;
+			font-size:12px;
+			line-height:150%;
+			text-align:left;
+		}
+		#templatePreheader .mcnTextContent a,#templatePreheader .mcnTextContent p=
+ a{
+			color:#656565;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateHeader{
+			background-color:#FFFFFF;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+			border-top:0;
+			border-bottom:0;
+			padding-top:9px;
+			padding-bottom:0;
+		}
+		#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:16px;
+			line-height:150%;
+			text-align:left;
+		}
+		#templateHeader .mcnTextContent a,#templateHeader .mcnTextContent p a{
+			color:#007C89;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateBody{
+			background-color:#FFFFFF;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+			border-top:0;
+			border-bottom:0;
+			padding-top:0;
+			padding-bottom:0;
+		}
+		#templateBody .mcnTextContent,#templateBody .mcnTextContent p{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:16px;
+			line-height:150%;
+			text-align:left;
+		}
+		#templateBody .mcnTextContent a,#templateBody .mcnTextContent p a{
+			color:#007C89;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateColumns{
+			background-color:#ffffff;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+			border-top:0;
+			border-bottom:2px solid #EAEAEA;
+			padding-top:0;
+			padding-bottom:9px;
+		}
+		#templateColumns .columnContainer .mcnTextContent,#templateColumns .colum=
+nContainer .mcnTextContent p{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:16px;
+			line-height:150%;
+			text-align:left;
+		}
+		#templateColumns .columnContainer .mcnTextContent a,#templateColumns .col=
+umnContainer .mcnTextContent p a{
+			color:#007C89;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateFooter{
+			background-color:#FAFAFA;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+			border-top:0;
+			border-bottom:0;
+			padding-top:9px;
+			padding-bottom:9px;
+		}
+		#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{
+			color:#656565;
+			font-family:Helvetica;
+			font-size:12px;
+			line-height:150%;
+			text-align:center;
+		}
+		#templateFooter .mcnTextContent a,#templateFooter .mcnTextContent p a{
+			color:#656565;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+	@media only screen and (min-width:768px){
+		.templateContainer{
+			width:600px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:none !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body{
+			width:100% !important;
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#bodyCell{
+			padding-top:10px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.columnWrapper{
+			max-width:100% !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnRetinaImage{
+			max-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImage{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCartContainer,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnCapti=
+onBottomContent,.mcnTextContentContainer,.mcnBoxedTextContentContainer,.mcnI=
+mageGroupContentContainer,.mcnCaptionLeftTextContentContainer,.mcnCaptionRig=
+htTextContentContainer,.mcnCaptionLeftImageContentContainer,.mcnCaptionRight=
+ImageContentContainer,.mcnImageCardLeftTextContentContainer,.mcnImageCardRig=
+htTextContentContainer,.mcnImageCardLeftImageContentContainer,.mcnImageCardR=
+ightImageContentContainer{
+			max-width:100% !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer{
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupContent{
+			padding:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCaptionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOuter =
+.mcnTextContent{
+			padding-top:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardTopImageContent,.mcnCaptionBottomContent:last-child .mcnCapt=
+ionBottomImageContent,.mcnCaptionBlockInner .mcnCaptionTopContent:last-child=
+ .mcnTextContent{
+			padding-top:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardBottomImageContent{
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockInner{
+			padding-top:0 !important;
+			padding-bottom:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockOuter{
+			padding-top:9px !important;
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent,.mcnBoxedTextContentColumn{
+			padding-right:18px !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{
+			padding-right:18px !important;
+			padding-bottom:0 !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcpreview-image-uploader{
+			display:none !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h1{
+			font-size:22px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h2{
+			font-size:20px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h3{
+			font-size:18px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h4{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer .mcnTextContent,.mcnBoxedTextContentContain=
+er .mcnTextContent p{
+			font-size:14px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templatePreheader{
+			display:block !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{
+			font-size:14px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateBody .mcnTextContent,#templateBody .mcnTextContent p{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateColumns .columnContainer .mcnTextContent,#templateColumns .colum=
+nContainer .mcnTextContent p{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{
+			font-size:14px !important;
+			line-height:150% !important;
+		}
+
+}</style>
+</head>
+<body style=3D"height: 100%;margin: 0;padding: 0;width: 100%;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;background-color: #FAFAFA;">
+<!--
+--><!--[if !gte mso 9]><!----><span class=3D"mcnPreviewText" style=3D"display:n=
+one; font-size:0px; line-height:0px; max-height:0px; max-width:0px; opacity:=
+0; overflow:hidden; visibility:hidden; mso-hide:all;">Enter our exclusive bl=
+uetooth headphone competition</span><!--<![endif]--><!--
+-->
+<center>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"10=
+0%" width=3D"100%" id=3D"bodyTable" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;height: 100%;margin: 0;padding: 0;width: 100%;background-colo=
+r: #FAFAFA;">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"top" id=3D"bodyCell" style=3D"mso-line-height-rule: =
+exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;height: 10=
+0%;margin: 0;padding: 10px;width: 100%;border-top: 0;">
+<!-- BEGIN TEMPLATE // --><!--[if (gte mso 9)|(IE)]>
+                        <table align=3D"center" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" width=3D"600" style=3D"width:600px;">
+                        <tr>
+                        <td align=3D"center" valign=3D"top" width=3D"600" style=3D"=
+width:600px;">
+                        <![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"templ=
+ateContainer" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-tab=
+le-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;bor=
+der: 0;max-width: 600px !important;">
+<tbody>
+<tr>
+<td valign=3D"top" id=3D"templatePreheader" style=3D"background:#FAFAFA none no-r=
+epeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;background-color: #FAFAFA;background-image: n=
+one;background-repeat: no-repeat;background-position: center;background-size=
+: cover;border-top: 0;border-bottom: 0;padding-top: 9px;padding-bottom: 9px;=
+">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTe=
+xtBlock" style=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: =
+0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+<tbody class=3D"mcnTextBlockOuter">
+<tr>
+<td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding-top: 9px;mso-line=
+-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;">
+<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"1=
+00%" style=3D"width:100%;">
+				<tr>
+				<![endif]--><!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"max-w=
+idth: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;m=
+so-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%;" width=3D"100%" class=3D"mcnTextContentContainer">
+<tbody>
+<tr>
+<td valign=3D"top" class=3D"mcnTextContent" style=3D"padding: 0px 18px 9px;text-a=
+lign: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;word-break: break-word;color: #656565;font-family: =
+Helvetica;font-size: 12px;line-height: 150%;">
+<div style=3D"text-align: right;"><a href=3D"https://mailchi.mp/innovationevent=
+s.co.uk/win-a-pair-of-sennheiser-headphones?e=3Dc5729c01cc" target=3D"_blank" st=
+yle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;color: #656565;font-weight: normal;text-decoration: underli=
+ne;">View
+ this email in your browser</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]>
+				</td>
+				<![endif]--><!--[if mso]>
+				</tr>
+				</table>
+				<![endif]--></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" id=3D"templateHeader" style=3D"background:#FFFFFF none no-repe=
+at center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;background-color: #FFFFFF;background-image: none=
+;background-repeat: no-repeat;background-position: center;background-size: c=
+over;border-top: 0;border-bottom: 0;padding-top: 9px;padding-bottom: 0;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnIm=
+ageBlock" style=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;">
+<tbody class=3D"mcnImageBlockOuter">
+<tr>
+<td valign=3D"top" style=3D"padding: 9px;mso-line-height-rule: exactly;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcnImageBlockInne=
+r">
+<table align=3D"left" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"mcnImageContentContainer" style=3D"min-width: 100%;border-collapse: co=
+llapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td class=3D"mcnImageContent" valign=3D"top" style=3D"padding-right: 9px;padding-=
+left: 9px;padding-top: 0;padding-bottom: 0;text-align: center;mso-line-heigh=
+t-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<img align=3D"center" alt=3D"" src=3D"https://gallery.mailchimp.com/911059759cade=
+5d562b083126/images/cd4e294c-e1ba-4393-83da-4dd0d75310fd.png" width=3D"100" st=
+yle=3D"max-width: 200px;padding-bottom: 0;display: inline !important;vertical-=
+align: bottom;border: 0;height: auto;outline: none;text-decoration: none;-ms=
+-interpolation-mode: bicubic;" class=3D"mcnRetinaImage">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" id=3D"templateBody" style=3D"background:#FFFFFF none no-repeat=
+ center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;background-color: #FFFFFF;background-image: none;b=
+ackground-repeat: no-repeat;background-position: center;background-size: cov=
+er;border-top: 0;border-bottom: 0;padding-top: 0;padding-bottom: 0;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTe=
+xtBlock" style=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: =
+0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+<tbody class=3D"mcnTextBlockOuter">
+<tr>
+<td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding-top: 9px;mso-line=
+-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;">
+<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"1=
+00%" style=3D"width:100%;">
+				<tr>
+				<![endif]--><!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"max-w=
+idth: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;m=
+so-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%;" width=3D"100%" class=3D"mcnTextContentContainer">
+<tbody>
+<tr>
+<td valign=3D"top" class=3D"mcnTextContent" style=3D"padding-top: 0;padding-right=
+: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-=
+word;color: #202020;font-family: Helvetica;font-size: 16px;line-height: 150%=
+;text-align: left;">
+<div style=3D"text-align: center;">Sennheiser, one of the main sponsors of th=
+e <a href=3D"https://innovationevents.us11.list-manage.com/track/click?u=3D91105=
+9759cade5d562b083126&amp;id=3De397dc2151&amp;e=3Dc5729c01cc" target=3D"_blank" sty=
+le=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-si=
+ze-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: underlin=
+e;">
+<strong>Innovation In The Dam</strong></a> drum &amp; bass festival, have g=
+iven us a few pairs of their stylish HD 4.40 BT high-quality wireless&nbsp;h=
+eadphones to give away!</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]>
+				</td>
+				<![endif]--><!--[if mso]>
+				</tr>
+				</table>
+				<![endif]--></td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnIm=
+ageBlock" style=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;">
+<tbody class=3D"mcnImageBlockOuter">
+<tr>
+<td valign=3D"top" style=3D"padding: 9px;mso-line-height-rule: exactly;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcnImageBlockInne=
+r">
+<table align=3D"left" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"mcnImageContentContainer" style=3D"min-width: 100%;border-collapse: co=
+llapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td class=3D"mcnImageContent" valign=3D"top" style=3D"padding-right: 9px;padding-=
+left: 9px;padding-top: 0;padding-bottom: 0;text-align: center;mso-line-heigh=
+t-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<a href=3D"https://innovationevents.us11.list-manage.com/track/click?u=3D911059=
+759cade5d562b083126&amp;id=3D0eec17ac08&amp;e=3Dc5729c01cc" title=3D"" class=3D"" ta=
+rget=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;"><img align=3D"center" alt=3D"" src=3D"https://g=
+allery.mailchimp.com/911059759cade5d562b083126/images/b74b3c75-85f5-4afd-a2a=
+1-e70b15e8a097.jpg" width=3D"564" style=3D"max-width: 700px;padding-bottom: 0;di=
+splay: inline !important;vertical-align: bottom;border: 0;height: auto;outli=
+ne: none;text-decoration: none;-ms-interpolation-mode: bicubic;" class=3D"mcnI=
+mage">
+</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnBu=
+ttonBlock" style=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace=
+: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;">
+<tbody class=3D"mcnButtonBlockOuter">
+<tr>
+<td style=3D"padding-top: 0;padding-right: 18px;padding-bottom: 18px;padding-=
+left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;" valign=3D"top" align=3D"center" class=3D"mcnButtonBlockIn=
+ner">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnBu=
+ttonContentContainer" style=3D"border-collapse: separate !important;border-top=
+-left-radius: 0px;border-top-right-radius: 0px;border-bottom-right-radius: 0=
+px;border-bottom-left-radius: 0px;background-color: #13D2C2;mso-table-lspace=
+: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"middle" class=3D"mcnButtonContent" style=3D"font-fam=
+ily: Arial;font-size: 30px;padding: 10px;mso-line-height-rule: exactly;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<a class=3D"mcnButton " title=3D"ENTER TO WIN" href=3D"https://innovationevents.u=
+s11.list-manage.com/track/click?u=3D911059759cade5d562b083126&amp;id=3D41455181d=
+2&amp;e=3Dc5729c01cc" target=3D"_blank" style=3D"font-weight: bold;letter-spacing:=
+ normal;line-height: 100%;text-align: center;text-decoration: none;color: #F=
+FFFFF;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;display: block;">ENTER
+ TO WIN</a> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTe=
+xtBlock" style=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: =
+0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+<tbody class=3D"mcnTextBlockOuter">
+<tr>
+<td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding-top: 9px;mso-line=
+-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;">
+<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"1=
+00%" style=3D"width:100%;">
+				<tr>
+				<![endif]--><!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"max-w=
+idth: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;m=
+so-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%;" width=3D"100%" class=3D"mcnTextContentContainer">
+<tbody>
+<tr>
+<td valign=3D"top" class=3D"mcnTextContent" style=3D"padding-top: 0;padding-right=
+: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-=
+word;color: #202020;font-family: Helvetica;font-size: 16px;line-height: 150%=
+;text-align: left;">
+<div style=3D"text-align: center;">The closed-back, around-ear headset (worth=
+ =C2=A389) features Bluetooth 4.0 and aptX compatibility to deliver true Hi-Fi s=
+ound &amp; are perfect for listening to your favourite Innovation drum &amp;=
+ bass anthems on your way to Amsterdam
+ in November =F0=9F=98=89</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]>
+				</td>
+				<![endif]--><!--[if mso]>
+				</tr>
+				</table>
+				<![endif]--></td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnIm=
+ageBlock" style=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;">
+<tbody class=3D"mcnImageBlockOuter">
+<tr>
+<td valign=3D"top" style=3D"padding: 9px;mso-line-height-rule: exactly;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcnImageBlockInne=
+r">
+<table align=3D"left" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"mcnImageContentContainer" style=3D"min-width: 100%;border-collapse: co=
+llapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td class=3D"mcnImageContent" valign=3D"top" style=3D"padding-right: 9px;padding-=
+left: 9px;padding-top: 0;padding-bottom: 0;text-align: center;mso-line-heigh=
+t-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<a href=3D"https://innovationevents.us11.list-manage.com/track/click?u=3D911059=
+759cade5d562b083126&amp;id=3D96313d8a89&amp;e=3Dc5729c01cc" title=3D"" class=3D"" ta=
+rget=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;"><img align=3D"center" alt=3D"" src=3D"https://g=
+allery.mailchimp.com/911059759cade5d562b083126/images/8b589379-861c-4619-be4=
+e-bb5a235f6884.jpg" width=3D"564" style=3D"max-width: 700px;padding-bottom: 0;di=
+splay: inline !important;vertical-align: bottom;border: 0;height: auto;outli=
+ne: none;text-decoration: none;-ms-interpolation-mode: bicubic;" class=3D"mcnI=
+mage">
+</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnDi=
+viderBlock" style=3D"min-width: 100%;border-collapse: collapse;mso-table-lspac=
+e: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;table-layout: fixed !important;">
+<tbody class=3D"mcnDividerBlockOuter">
+<tr>
+<td class=3D"mcnDividerBlockInner" style=3D"min-width: 100%;padding: 18px;mso-l=
+ine-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;">
+<table class=3D"mcnDividerContent" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" style=3D"min-width: 100%;border-top-width: 2px;border-top-style:=
+ solid;border-top-color: #EAEAEA;border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;">
+<tbody>
+<tr>
+<td style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+<span></span></td>
+</tr>
+</tbody>
+</table>
+<!--
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-color:no=
+ne; border-left-color:none; border-right-color:none; border-bottom-width:0; =
+border-left-width:0; border-right-width:0; margin-top:0; margin-right:0; mar=
+gin-bottom:0; margin-left:0;" />
+--></td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTe=
+xtBlock" style=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: =
+0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+<tbody class=3D"mcnTextBlockOuter">
+<tr>
+<td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding-top: 9px;mso-line=
+-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;">
+<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"1=
+00%" style=3D"width:100%;">
+				<tr>
+				<![endif]--><!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"max-w=
+idth: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;m=
+so-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%;" width=3D"100%" class=3D"mcnTextContentContainer">
+<tbody>
+<tr>
+<td valign=3D"top" class=3D"mcnTextContent" style=3D"padding-top: 0;padding-right=
+: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-=
+word;color: #202020;font-family: Helvetica;font-size: 16px;line-height: 150%=
+;text-align: left;">
+<div style=3D"text-align: center;"><u><strong>Other Innovation News</strong><=
+/u></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]>
+				</td>
+				<![endif]--><!--[if mso]>
+				</tr>
+				</table>
+				<![endif]--></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" id=3D"templateColumns" style=3D"background:#ffffff none no-rep=
+eat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;background-color: #ffffff;background-image: non=
+e;background-repeat: no-repeat;background-position: center;background-size: =
+cover;border-top: 0;border-bottom: 2px solid #EAEAEA;padding-top: 0;padding-=
+bottom: 9px;">
+<!--[if (gte mso 9)|(IE)]>
+                                    <table align=3D"center" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0" width=3D"600" style=3D"width:600px;">
+                                    <tr>
+                                    <td align=3D"center" valign=3D"top" width=3D"=
+200" style=3D"width:200px;">
+                                    <![endif]-->
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"200" =
+class=3D"columnWrapper" style=3D"border-collapse: collapse;mso-table-lspace: 0pt=
+;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: =
+100%;">
+<tbody>
+<tr>
+<td valign=3D"top" class=3D"columnContainer" style=3D"mso-line-height-rule: exact=
+ly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnIm=
+ageCardBlock" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-tab=
+le-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class=3D"mcnImageCardBlockOuter">
+<tr>
+<td class=3D"mcnImageCardBlockInner" valign=3D"top" style=3D"padding-top: 9px;pad=
+ding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule=
+: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table align=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnI=
+mageCardBottomContent" width=3D"100%" style=3D"background-color: #404040;border-=
+collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td class=3D"mcnImageCardBottomImageContent" align=3D"left" valign=3D"top" style=3D=
+"padding-top: 0px;padding-right: 0px;padding-bottom: 0;padding-left: 0px;mso=
+-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;">
+<a href=3D"https://innovationevents.us11.list-manage.com/track/click?u=3D911059=
+759cade5d562b083126&amp;id=3Dc5343bd740&amp;e=3Dc5729c01cc" title=3D"" class=3D"" ta=
+rget=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;"><img alt=3D"" src=3D"https://gallery.mailchim=
+p.com/911059759cade5d562b083126/images/268a3c9e-2900-4bd9-bbe2-477fc34f1012.=
+jpg" width=3D"164" style=3D"max-width: 805px;border: 0;height: auto;outline: non=
+e;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bott=
+om;" class=3D"mcnImage">
+</a></td>
+</tr>
+<tr>
+<td class=3D"mcnTextContent" valign=3D"top" style=3D"padding: 9px 18px;color: #F2=
+F2F2;font-family: Helvetica;font-size: 14px;font-weight: normal;text-align: =
+center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text=
+-size-adjust: 100%;word-break: break-word;line-height: 150%;" width=3D"146">
+Unreleased sets from In The Dam 2018 on <a href=3D"https://innovationevents.u=
+s11.list-manage.com/track/click?u=3D911059759cade5d562b083126&amp;id=3D34fb09d98=
+6&amp;e=3Dc5729c01cc" target=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms=
+-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-w=
+eight: normal;text-decoration: underline;">
+Mixcloud &amp; Soundcloud</a> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    <td align=3D"center" valign=3D"top" width=3D"=
+200" style=3D"width:200px;">
+                                    <![endif]-->
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"200" =
+class=3D"columnWrapper" style=3D"border-collapse: collapse;mso-table-lspace: 0pt=
+;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: =
+100%;">
+<tbody>
+<tr>
+<td valign=3D"top" class=3D"columnContainer" style=3D"mso-line-height-rule: exact=
+ly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnIm=
+ageCardBlock" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-tab=
+le-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class=3D"mcnImageCardBlockOuter">
+<tr>
+<td class=3D"mcnImageCardBlockInner" valign=3D"top" style=3D"padding-top: 9px;pad=
+ding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule=
+: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnIm=
+ageCardBottomContent" width=3D"100%" style=3D"background-color: #404040;border-c=
+ollapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td class=3D"mcnImageCardBottomImageContent" align=3D"left" valign=3D"top" style=3D=
+"padding-top: 0px;padding-right: 0px;padding-bottom: 0;padding-left: 0px;mso=
+-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;">
+<a href=3D"https://innovationevents.us11.list-manage.com/track/click?u=3D911059=
+759cade5d562b083126&amp;id=3Dde24b37331&amp;e=3Dc5729c01cc" title=3D"" class=3D"" ta=
+rget=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;"><img alt=3D"" src=3D"https://gallery.mailchim=
+p.com/911059759cade5d562b083126/images/a9435572-d7b4-40d1-8c5f-26edddd1f2f2.=
+jpg" width=3D"164" style=3D"max-width: 805px;border: 0;height: auto;outline: non=
+e;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bott=
+om;" class=3D"mcnImage">
+</a></td>
+</tr>
+<tr>
+<td class=3D"mcnTextContent" valign=3D"top" style=3D"padding: 9px 18px;color: #F2=
+F2F2;font-family: Helvetica;font-size: 14px;font-weight: normal;text-align: =
+center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text=
+-size-adjust: 100%;word-break: break-word;line-height: 150%;" width=3D"146">
+Our brand new <a href=3D"https://innovationevents.us11.list-manage.com/track/=
+click?u=3D911059759cade5d562b083126&amp;id=3D6b86979c4a&amp;e=3Dc5729c01cc" target=
+=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decorat=
+ion: underline;">
+Innovation In The Sun resort</a> for next summer </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    <td align=3D"center" valign=3D"top" width=3D"=
+200" style=3D"width:200px;">
+                                    <![endif]-->
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"200" =
+class=3D"columnWrapper" style=3D"border-collapse: collapse;mso-table-lspace: 0pt=
+;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: =
+100%;">
+<tbody>
+<tr>
+<td valign=3D"top" class=3D"columnContainer" style=3D"mso-line-height-rule: exact=
+ly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnIm=
+ageCardBlock" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-tab=
+le-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class=3D"mcnImageCardBlockOuter">
+<tr>
+<td class=3D"mcnImageCardBlockInner" valign=3D"top" style=3D"padding-top: 9px;pad=
+ding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule=
+: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table align=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnI=
+mageCardBottomContent" width=3D"100%" style=3D"background-color: #404040;border-=
+collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td class=3D"mcnImageCardBottomImageContent" align=3D"left" valign=3D"top" style=3D=
+"padding-top: 0px;padding-right: 0px;padding-bottom: 0;padding-left: 0px;mso=
+-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;">
+<a href=3D"https://innovationevents.us11.list-manage.com/track/click?u=3D911059=
+759cade5d562b083126&amp;id=3D795fbc33af&amp;e=3Dc5729c01cc" title=3D"" class=3D"" ta=
+rget=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;"><img alt=3D"" src=3D"https://gallery.mailchim=
+p.com/911059759cade5d562b083126/images/b4e0776e-14c3-4eaa-b06a-71378b2852d3.=
+jpg" width=3D"164" style=3D"max-width: 805px;border: 0;height: auto;outline: non=
+e;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bott=
+om;" class=3D"mcnImage">
+</a></td>
+</tr>
+<tr>
+<td class=3D"mcnTextContent" valign=3D"top" style=3D"padding: 9px 18px;color: #F2=
+F2F2;font-family: Helvetica;font-size: 14px;font-weight: normal;text-align: =
+center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text=
+-size-adjust: 100%;word-break: break-word;line-height: 150%;" width=3D"146">
+Tickets are now on sale for our biggest ever <a href=3D"https://innovationeve=
+nts.us11.list-manage.com/track/click?u=3D911059759cade5d562b083126&amp;id=3D358c=
+b3dc45&amp;e=3Dc5729c01cc" target=3D"_blank" style=3D"mso-line-height-rule: exactl=
+y;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;f=
+ont-weight: normal;text-decoration: underline;">
+drum &amp; bass boat party</a> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]--></td>
+</tr>
+<tr>
+<td valign=3D"top" id=3D"templateFooter" style=3D"background:#FAFAFA none no-repe=
+at center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;background-color: #FAFAFA;background-image: none=
+;background-repeat: no-repeat;background-position: center;background-size: c=
+over;border-top: 0;border-bottom: 0;padding-top: 9px;padding-bottom: 9px;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnDi=
+viderBlock" style=3D"min-width: 100%;border-collapse: collapse;mso-table-lspac=
+e: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;table-layout: fixed !important;">
+<tbody class=3D"mcnDividerBlockOuter">
+<tr>
+<td class=3D"mcnDividerBlockInner" style=3D"min-width: 100%;padding: 10px 18px =
+25px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;">
+<table class=3D"mcnDividerContent" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" style=3D"min-width: 100%;border-top-width: 2px;border-top-style:=
+ solid;border-top-color: #EEEEEE;border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;">
+<tbody>
+<tr>
+<td style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+<span></span></td>
+</tr>
+</tbody>
+</table>
+<!--
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-color:no=
+ne; border-left-color:none; border-right-color:none; border-bottom-width:0; =
+border-left-width:0; border-right-width:0; margin-top:0; margin-right:0; mar=
+gin-bottom:0; margin-left:0;" />
+--></td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTe=
+xtBlock" style=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: =
+0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+<tbody class=3D"mcnTextBlockOuter">
+<tr>
+<td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding-top: 9px;mso-line=
+-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;">
+<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"1=
+00%" style=3D"width:100%;">
+				<tr>
+				<![endif]--><!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"max-w=
+idth: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;m=
+so-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%;" width=3D"100%" class=3D"mcnTextContentContainer">
+<tbody>
+<tr>
+<td valign=3D"top" class=3D"mcnTextContent" style=3D"padding-top: 0;padding-right=
+: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-=
+word;color: #656565;font-family: Helvetica;font-size: 12px;line-height: 150%=
+;text-align: center;">
+<em>Copyright =C2=A9 2019 Innovation Events Management Ltd, All rights reserved=
+.</em> <br>
+You are receiving this email because you opted in at our website via our ne=
+wsletter or when purchasing from us.
+<br>
+<br>
+<strong>Our mailing address is:</strong> <br>
+<div class=3D"vcard"><span class=3D"org fn">Innovation Events Management Ltd</s=
+pan>
+<div class=3D"adr">
+<div class=3D"street-address">39a Mawney Road</div>
+<span class=3D"locality">Romford</span>, <span class=3D"region">Essex</span> <s=
+pan class=3D"postal-code">
+RM7 7HL</span>
+<div class=3D"country-name">United Kingdom</div>
+</div>
+<br>
+<a href=3D"https://innovationevents.us11.list-manage.com/vcard?u=3D911059759cad=
+e5d562b083126&amp;id=3D4d3e682c97" class=3D"hcard-download">Add us to your addre=
+ss book</a></div>
+<br>
+<br>
+Want to change how you receive these emails?<br>
+You can <a href=3D"https://innovationevents.us11.list-manage.com/profile?u=3D91=
+1059759cade5d562b083126&amp;id=3D4d3e682c97&amp;e=3Dc5729c01cc" style=3D"mso-line-=
+height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%;color: #656565;font-weight: normal;text-decoration: underline;">
+update your preferences</a> or <a href=3D"https://innovationevents.us11.list-=
+manage.com/unsubscribe?u=3D911059759cade5d562b083126&amp;id=3D4d3e682c97&amp;e=3Dc=
+5729c01cc&amp;c=3D39a4dba56d" style=3D"mso-line-height-rule: exactly;-ms-text-si=
+ze-adjust: 100%;-webkit-text-size-adjust: 100%;color: #656565;font-weight: n=
+ormal;text-decoration: underline;">
+unsubscribe from this list</a>. <br>
+<br>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]>
+				</td>
+				<![endif]--><!--[if mso]>
+				</tr>
+				</table>
+				<![endif]--></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--><!-- // END TEMPLATE --></td>
+</tr>
+</tbody>
+</table>
+</center>
+<img src=3D"https://innovationevents.us11.list-manage.com/track/open.php?u=3D91=
+1059759cade5d562b083126&amp;id=3D39a4dba56d&amp;e=3Dc5729c01cc" height=3D"1" width=
+=3D"1">
+</body>
+</html>
+
+
+--B_3651508908_69214369--
+
